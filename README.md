@@ -1,5 +1,5 @@
 # my-project
-Fundamentos y elementos basicon de vue.js
+Fundamentos y elementos basicos de vue.js
 
 ## Project setup
 ```
